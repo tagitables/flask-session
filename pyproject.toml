@@ -29,7 +29,6 @@ dependencies = [
   "msgspec>=0.18.6",
   "cachelib",
 ]
-dynamic = ["version"]
 
 [project.urls]
 Documentation   = "https://flask-session.readthedocs.io"
